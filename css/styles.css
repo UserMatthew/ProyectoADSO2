@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #e5ecf9;
+}
+
+.ContaLogg {
+    border-radius: 25px;
+    margin-top: 25px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    width: 50%;
+
+}
+
+.img {
+    background-position: center center;
+    background-size: cover;
+    width: 103%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 25px;
+    margin: 5px 0px 0px -5px;
+    
+}
+
+.card-img {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.acount {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    
+
+}
+
+.profile  {
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+}
+
+
+.material-symbols-outlined {
+  font-size: 6em;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 100,
+  'GRAD' -25,
+  'opsz' 20
+}
+
+.input {
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.submit {
+   margin-top: 30px;
+   border-radius: 25px;
+}
+
+.material-icons{
+    margin-top: 10px;
+}
+
+.full-height {
+    height: 100vh; 
+}
+
+.info-acount {
+    margin-top: 15px;
+}
+
+.relleno {
+    margin-top: 15px;
+}
+
+.full-width {
+    width: 100vh;
+}
+
+.custom-nav {
+   background-color: #dd2c00 ; 
+}
+
+
+.section {
+    margin-left: 270px;
+}
+
+.contaSection {
+    border-radius: 25px;
+    margin-top: 25px;   
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+    width: 30%; 
+    height: 55px;
+    margin-bottom: 35px;
+}
+
+
